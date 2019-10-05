@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+
+ @font-face {
+  font-family: 'SourceHanSansHW';
+  src: font-url('SourceHanSansHW-Regular.otf');
+  font-weight: normal;
+  font-style: normal;
+}
