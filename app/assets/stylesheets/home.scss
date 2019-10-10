@@ -3,7 +3,7 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
 
-.header-wrapper{
+.header-wrapper .footer-wrapper{
   height: 100px;
   border: 1px #D6D6D6 solid;
 }
@@ -143,4 +143,12 @@ label {
   height: 100px;
   border-radius: 50px;
   border: 1px solid white;
+}
+
+
+/* footer */
+.footer-wrapper{
+  bottom: 0;
+  position: fixed;
+  text-align: center;
 }
